@@ -40,7 +40,7 @@ You have the right to request the deletion of your data. You can do this through
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on our GitHub repository. You are advised to review this Privacy Policy periodically for any changes.
 
 ## Contact Us
-If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at [your contact information].
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at our [Discord Server](https://discord.com/invite/Pbecc6P).
 
 ## Acknowledgment
 By using Acacia, you acknowledge that you have read and understood this Privacy Policy and agree to be bound by its terms and conditions.
